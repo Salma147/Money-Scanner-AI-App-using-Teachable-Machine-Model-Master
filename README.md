@@ -1,0 +1,1 @@
+Money Scanner is an AI-based app. It is mainly made for money detection.  If the user uploads the image of any note given by Bangladesh Bank as input, he can see as output how much money the note was. If he gives an image input of coins or something else, he will see whether it is a coin or something others.
